@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\abmautos\abmautos\bin\Debug\abmautos.exe.config
+C:\Users\User\source\repos\abmautos\abmautos\bin\Debug\abmautos.exe
+C:\Users\User\source\repos\abmautos\abmautos\bin\Debug\abmautos.pdb
+C:\Users\User\source\repos\abmautos\abmautos\bin\Debug\abmautos.xml
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.Form1.resources
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.Form2.resources
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.Resources.resources
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.exe
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.xml
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.pdb
+C:\Users\User\source\repos\abmautos\abmautos\obj\Debug\abmautos.Form3.resources
