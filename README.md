@@ -1,5 +1,5 @@
 # abmautos
-opte por realizarlo en vb.net 4.7.2 para hacerlo mas simple pero aun asi fue dificil por errores que tiro varias veces.
+opte por realizarlo en vb.net framework 4.7.2 para hacerlo mas simple pero aun asi fue dificil por errores que tiro varias veces.
 
 -comienza con un menu principal donde te da a elegir entre agregar clientes o el abm de viajes
 
